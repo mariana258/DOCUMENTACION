@@ -96,23 +96,30 @@ ALGORITHM: Algoritmo de encriptación.
 ACCESS_TOKEN_EXPIRE_MINUTES: Tiempo de expiración del token.
 
 5. Instalación Técnica
+
 5.1 Instalación del Backend
+
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 
 5.2 Instalación del Frontend
+
 npm install
 npm run dev
 
 6. Endpoints Principales (API)
+
 6.1 Módulo de Usuarios
+
 Método	Endpoint	Descripción
 POST	/auth/login	Iniciar sesión
 GET	/usuarios	Listar usuarios
 POST	/usuarios	Crear usuario
+
 6.2 Módulo de Materiales
+
 Método	Endpoint	Descripción
 GET	/materiales	Listar materiales
 POST	/materiales	Crear material
@@ -123,6 +130,7 @@ Método	Endpoint	Descripción
 GET	/pedidos	Listar pedidos
 POST	/pedidos	Crear pedido
 PUT	/pedidos/{id}/estado	Cambiar estado del pedido
+
 7. Seguridad del Sistema
 
 El sistema implementa las siguientes medidas de seguridad:
@@ -154,6 +162,7 @@ Utilizar un navegador actualizado (Chrome, Edge o Firefox).
 Contar con credenciales de usuario válidas.
 
 10. Flujo de Uso del Sistema (Vista Técnica–Funcional)
+
 10.1 Inicio de Sesión (Flujo)
 
 El frontend envía credenciales al endpoint /auth/login.
@@ -211,10 +220,12 @@ PUT /pedidos/{id}/estado
 Se actualiza el estado del pedido.
 
 11. Roles de Usuario
+
 Rol	Permisos principales
 Administrador	Control total del sistema
 Empleado	Gestión de pedidos y visualización de stock
 Supervisor	Generación de reportes
+
 12. Preguntas Frecuentes Técnicas (FAQ)
 
 ¿Qué hacer si falla la conexión a la base de datos?
