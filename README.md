@@ -133,7 +133,7 @@ npm run dev
 
 9. Manual de Usuario
  primera pagina(introduccion sobre el proyecto)
-   <img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/a4b58fd2-f67e-4b70-80b5-354b0697b82f" />
+<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/a4b58fd2-f67e-4b70-80b5-354b0697b82f" />
 
 9.1 Registro
 <img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/f58ef389-238f-446a-b7ff-da94b5d53910" />
