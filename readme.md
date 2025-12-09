@@ -30,6 +30,12 @@ Abra su navegador web.
 
 Ingrese la dirección web del sistema ECOSOFT- http://localhost:5173/.
 
+Luego de ingresar, aparecera un home donde se habla un poco sobre la pagina web.
+
+<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/a4b58fd2-f67e-4b70-80b5-354b0697b82f" />
+
+Desde esta pantalla podras acceder a la informacion de nuestra pagina.
+
 4. Registro de Usuario
 
 <img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/f58ef389-238f-446a-b7ff-da94b5d53910" />
@@ -37,7 +43,7 @@ Ingrese la dirección web del sistema ECOSOFT- http://localhost:5173/.
 
 Para registrarse en el sistema:
 
-Hacer clic en la opción “Registrarse”.
+Hacer clic en la opción “Registrate” que aparece en la parte superior derecha del home.
 
 Completar el formulario con:
 
@@ -47,7 +53,9 @@ Correo electrónico
 
 Contraseña
 
-Hacer clic en el botón “Crear cuenta”.
+Telefono
+
+Hacer clic en el botón “Registrarme”.
 
 Esperar el mensaje de confirmación.
 
@@ -68,15 +76,16 @@ Presionar el botón “Ingresar”.
 Al ingresar correctamente, el sistema mostrará el Panel Principal (Dashboard).
 
 6. Panel Principal (Dashboard)
-<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/a4b58fd2-f67e-4b70-80b5-354b0697b82f" />
+   
+<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/783c458c-3f02-4773-8d57-27bf0317ee15" />
 
 Desde el panel principal, el usuario puede:
 
 Ver un resumen de sus pedidos.
 
-Acceder al módulo de Materiales.
+Acceder a la seccion de Materiales.
 
-Acceder al módulo de Pedidos.
+Acceder a la seccion de Pedidos.
 
 Administrar su perfil de usuario.
 
@@ -86,17 +95,15 @@ El menú principal permite navegar por las diferentes secciones del sistema.
 
 <img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/8cff059c-49e2-451e-8466-1ad37a5bfefd" />
 
-Para crear un pedido:
+Para crear un pedido
 
-Hacer clic en “Pedidos”.
+Ve a la seccion pedidos
 
-Seleccionar la opción “Crear pedido”.
-
-Completar los campos solicitados (producto, cantidad, tipo, etc.).
+Completa los campos solicitados (material, cantidad, metodo de pago, etc.).
 
 Verificar la información ingresada.
 
-Confirmar el pedido.
+Click al boton realizar el pedido.
 
 Después de completar el pedido, el sistema generará un comprobante de pedido.
 
@@ -125,38 +132,6 @@ Escribir el motivo de la queja.
 Hacer clic en el botón “Enviar”.
 
 Esperar el mensaje de confirmación.
-9.1 Registro
-<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/f58ef389-238f-446a-b7ff-da94b5d53910" />
-
-Inicio de Sesión
-<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/801c4191-a9b9-4196-affc-e893f3d28f29" />
-Ingresar al sistema.
-
-Escribir correo y contraseña.
-
-Presionar “Ingresar”.
-
-9.2 Realizar pedidos
-
-<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/8cff059c-49e2-451e-8466-1ad37a5bfefd" />
-
-Crear pedidos.
-completar los campos.
-verificar informacion y comprobante de pedido.
-
-9.3 Descargar comprobante
-<img width="1257" height="216" alt="image" src="https://github.com/user-attachments/assets/27d8b78e-b7b0-4a68-9a93-b694b06d220c" />
-
-Despues de realizar su pedido, aparece informacion especifica de la compra.
-Dar click en descargar.
-
-
-9.4 Enviar quejas o reclamos
-
-<img width="476" height="578" alt="image" src="https://github.com/user-attachments/assets/439270cf-bcb4-405d-a804-7486b9a7d691" />
-
-Espere a que cargue la página principal.
-
 
 10. Seguridad y Buenas Prácticas
 
